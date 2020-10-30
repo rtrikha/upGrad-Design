@@ -12,9 +12,9 @@
 
 body {
   -webkit-font-smoothing: antialiased;
-  background-color: #111;
+  background-color: var(--a-b);
   margin: 0;
-  color: white;
+  color: var(--f-l);
   font-family: aventa;
   font-weight: 400;
   text-align: center;

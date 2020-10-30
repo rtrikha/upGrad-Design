@@ -4,6 +4,7 @@ frontend:
     preBuild:
       commands:
         - npm install
+        - npm rebuild node-sass
     build:
       commands:
       - npm run build
