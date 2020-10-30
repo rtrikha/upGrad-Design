@@ -1,5 +1,24 @@
+@font-face {
+  src: url(/resources/fonts/Aventa-Light.ttf);
+  font-family: aventa;
+  font-weight: 200;
+}
+
+@font-face {
+  src: url(/resources/fonts/Aventa-Medium.ttf);
+  font-family: aventa;
+  font-weight: 400;
+}
+
 body {
+  -webkit-font-smoothing: antialiased;
   background-color: #111;
   margin: 0;
+  color: white;
+  font-family: aventa;
+  font-weight: 400;
+  text-align: center;
+  margin-top: 50vh;
+  font-size: 24px;
 }
 /*# sourceMappingURL=style.css.map */
