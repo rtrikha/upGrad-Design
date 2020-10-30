@@ -3,7 +3,6 @@
     "version": "1.0.0",
     "description": "Designers and Researchers of upGrad Design Team",
     "author": "Raunak Trikha",
-    "license": "MIT",
     "homepage": "https://upgrad.2dots.xyz",
     "scripts": {
         "clean": "rimraf dist/{css/*,js/*,resources/*,*.html}",
